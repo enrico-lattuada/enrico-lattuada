@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi there! My name is [Enrico Lattuada](https://enrico-lattuada.com/) and I am a postdoctoral researcher at the [Faculty of Physics](https://physik.univie.ac.at/en/) of the [University of Vienna](https://www.univie.ac.at/en/).
+My research is on experimental soft matter physics, focusing on complex colloidal suspensions using advanced optical techniques, and the development of high-performance codes for experiment analysis.
+
+🚀 Check out [FastDDM](https://github.com/somexlab/fastddm)! 
+
+[![EL's GitHub stats](https://github-readme-stats.vercel.app/api?username=enrico-lattuada)](https://github.com/anuraghazra/github-readme-stats)
+[![EL's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enrico-lattuada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **enrico-lattuada/enrico-lattuada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
