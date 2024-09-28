@@ -1,5 +1,7 @@
-Hi there! My name is [Enrico Lattuada](https://enrico-lattuada.com/) and I am a postdoctoral researcher at the [Faculty of Physics](https://physik.univie.ac.at/en/) of the [University of Vienna](https://www.univie.ac.at/en/).
-My research is on experimental soft matter physics, focusing on complex colloidal suspensions using advanced optical techniques, and the development of high-performance codes for experiment analysis.
+Hi there! My name is [Enrico Lattuada](https://enrico-lattuada.com/) and I am a Scientific Python Developer at [Zuru Tech](https://zuru.tech/).
+
+I previously worked as a postdoctoral researcher at the [Faculty of Physics](https://physik.univie.ac.at/en/) of the [University of Vienna](https://www.univie.ac.at/en/) and at the [Physics Department](https://www.phys.uniroma1.it/fisica/en) of the [University of Rome La Sapienza](https://www.uniroma1.it/en/). 
+My research focused on experimental soft matter physics, with the investigation of complex colloidal suspensions using advanced optical techniques, and the development of high-performance codes for experiment analysis.
 
 🚀 Check out [FastDDM](https://github.com/somexlab/fastddm)! 
 
