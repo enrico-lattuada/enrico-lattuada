@@ -5,11 +5,11 @@ My research focused on experimental soft matter physics, with the investigation 
 
 🚀 Check out [FastDDM](https://github.com/somexlab/fastddm)! 
 
-[![EL's GitHub stats](https://github-readme-stats-snowy-kappa.vercel.app/api?username=enrico-lattuada)](https://github.com/anuraghazra/github-readme-stats)
-[![EL's Top Langs](https://github-readme-stats-snowy-kappa.vercel.app/api/top-langs/?username=enrico-lattuada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **enrico-lattuada/enrico-lattuada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![EL's GitHub stats](https://github-readme-stats-snowy-kappa.vercel.app/api?username=enrico-lattuada)](https://github.com/anuraghazra/github-readme-stats)
+[![EL's Top Langs](https://github-readme-stats-snowy-kappa.vercel.app/api/top-langs/?username=enrico-lattuada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
